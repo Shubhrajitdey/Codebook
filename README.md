@@ -32,4 +32,4 @@ While coding platforms usually host multiple contests while maintaining numerous
 | PUT | /users/{userId} | To update scores |
 | DELETE | /users/{userId} | To remove participants from contest |
 
-### Checkout this Postman collections - https://mycriobuildout.postman.co/workspace/Crio-Project---Public~d30943c7-dbba-4b97-8948-85be22f4220b/collection/33820042-e55fe69b-6b0f-48c6-a915-0af58dfd9a1e?action=share&creator=33820042
+### Checkout this Postman collections - https://www.postman.com/mycriobuildout/workspace/crio-build-out/collection/33820042-e55fe69b-6b0f-48c6-a915-0af58dfd9a1e?action=share&creator=33820042
