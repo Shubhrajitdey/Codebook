@@ -10,7 +10,7 @@ Prerequisites
 💻 Spring Boot and Java version 8 or higher
 Steps
 Clone the repository by using the command given below:
-    git clone https://github.com/bhooshanmate/CodeBook.git
+    git clone https://github.com/Shubhrajitdey/Codebook
     cd CodeBook
 Run the project by using the following command:
     mvn spring-boot:run
