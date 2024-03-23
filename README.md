@@ -16,7 +16,7 @@ While coding platforms usually host multiple contests while maintaining numerous
 ```
 - Run the project by using the following command:
 ``` Shell
-    mvn spring-boot:run
+   ./gradlew bootRun
 ```
 - Connect to the API using Postman on port 8080
 ``` Shell
