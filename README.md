@@ -11,7 +11,7 @@ While coding platforms usually host multiple contests while maintaining numerous
 ### Steps
 - Clone the repository by using the command given below:
 ``` Shell
-    git clone https://github.com/bhooshanmate/CoderHack.git
+    git clone https://github.com/Shubhrajitdey/Codebook
     cd CoderHack
 ```
 - Run the project by using the following command:
